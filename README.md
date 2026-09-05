@@ -7,4 +7,4 @@
 
 4. Some basic iOS code security hardening has been performed; however, there is NO certificate pinning included in the code. This code was used to push directly to my iPhone 17 Pro for testing purposes and is not available through the Apple App Store.
 
-5. I added some images of what the app looks like on the iPhone as well as the icon image that I used.
+5. I added images of what the app looks like on the iPhone as well as the app icon image.
